@@ -11,7 +11,7 @@ I am a passionate software developer focused on building robust backend systems 
 ---
 
 ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,springboot,restfulwebservice,mysql,mongodb,react,bootstrap,html,css,js,git,github,maven,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,restful,mysql,mongodb,react,bootstrap,html,css,js,git,github,maven,bootstrap)](https://skillicons.dev)
 
 ---
 
