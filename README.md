@@ -10,7 +10,7 @@ I am a passionate software developer focused on building robust backend systems 
 
 ### 🚀 Featured Projects
 
-#### **[Microservices Hotel Rating System](https://github.com/Hemant15-Bl/hotel-ratings-app)**
+#### **[Microservices Hotel Rating System](https://github.com/Hemant15-Bl/hotel_ratings_app)**
 * **Architecture:** Developed a distributed system using **Spring Cloud (Eureka, API Gateway, Config Server)**.
 * **Security & Data:** Implemented **OAuth2.0** and managed polyglot persistence across **MySQL, PostgreSQL, and MongoDB**.
 * **Frontend:** Built a responsive dashboard using **React.js** for real-time rating management.
