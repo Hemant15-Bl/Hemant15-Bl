@@ -1,7 +1,8 @@
 # Hi there, I'm Hemant! 👋
 
-### Aspiring Full-Stack Developer
-I am a passionate software developer focused on building robust backend systems using **Java and Spring Boot** while creating dynamic frontends with **React.js and Modern UI**.
+### Software Engineer
+Backend-focused Software Engineer building scalable applications using **Java, Spring Boot, Microservices, and React.js**.
+Interested in **distributed systems, system design**, backend architecture, and cloud-native development.
 
 ---
 
@@ -10,7 +11,15 @@ I am a passionate software developer focused on building robust backend systems 
 
 ### 🚀 Featured Projects
 
-#### **[Microservices Hotel Rating System](https://github.com/Hemant15-Bl/hotel_ratings_app)**
+### **[URL Shortener Service](https://github.com/Hemant15-Bl/Url-Shortener**
+* **Architecture:** Designed a scalable URL shortening service using Spring Boot and **RESTful APIs** with focus on backend scalability and clean system design.
+* **Core Features:** Implemented short URL generation, redirection handling, expiration support, and analytics tracking.
+* **Performance & Caching:** Integrated **Redis** caching to improve redirection performance and reduce database load for frequently accessed URLs.
+* **Security & Validation:** Added request validation, exception handling, and secure API design for reliable URL management.
+* **DevOps:** Currently working on Dockerizing the application for containerized deployment and environment consistency.
+* **Tech Stack:** Java, Spring Boot, Redis, MySQL, MongoDB, Docker, REST APIs, Git/GitHub
+
+#### **[Hotel Rating System](https://github.com/Hemant15-Bl/hotel_ratings_app)**
 * **Architecture:** Developed a distributed system using **Spring Cloud (Eureka, API Gateway, Config Server)**.
 * **Security & Data:** Implemented **OAuth2.0** and managed polyglot persistence across **MySQL, PostgreSQL, and MongoDB**.
 * **Frontend:** Built a responsive dashboard using **React.js** for real-time rating management.
@@ -28,5 +37,5 @@ I am a passionate software developer focused on building robust backend systems 
 ---
 
 ### 📊 My GitHub Stats
-![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemant15-Bl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant15-Bl&layout=compact&theme=radical)
+![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hemant15-Bl&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemant15-Bl&layout=compact&hide_border=true&theme=radical)
