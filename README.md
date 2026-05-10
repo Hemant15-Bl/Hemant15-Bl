@@ -11,7 +11,7 @@ Interested in **distributed systems, system design**, backend architecture, and 
 
 ### 🚀 Featured Projects
 
-### **[URL Shortener Service](https://github.com/Hemant15-Bl/Url-Shortener**
+### **[URL Shortener Service](https://github.com/Hemant15-Bl/Url-Shortener.git)**
 * **Architecture:** Designed a scalable URL shortening service using Spring Boot and **RESTful APIs** with focus on backend scalability and clean system design.
 * **Core Features:** Implemented short URL generation, redirection handling, expiration support, and analytics tracking.
 * **Performance & Caching:** Integrated **Redis** caching to improve redirection performance and reduce database load for frequently accessed URLs.
